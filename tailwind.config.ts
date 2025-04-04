@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        khaki: "#decc76",
+        khakiHover: '#bfb065',
+        blueCustom: "#4994b8"
       },
     },
   },
