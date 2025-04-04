@@ -4,6 +4,7 @@ import { Newsreader } from 'next/font/google';
 import { useState } from 'react';
 const newsreaderFont = Newsreader({
   weight: '300',
+  preload: false,
 });
 
 export default function Home() {
